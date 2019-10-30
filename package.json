@@ -26,7 +26,7 @@
     "mocha": "*",
     "mongodb": "1.4.28",
     "mongoose": "~*",
-    "morgan": "~1.5.1",
+    "morgan": "~1.9.1",
     "serve-favicon": "~2.2.0",
     "superagent": "*",
     "togeojson": "^0.11.1",
